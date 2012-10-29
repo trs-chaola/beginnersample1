@@ -49,8 +49,8 @@ function getQuestionList() {
 					"answer"   => ""
 				),
 				'3' => array(
-					"id"       => "with Native American and one-on-one",
-					"question" => "",
+					"id"       => "3",
+					"question" => "with Native American and one-on-one",
 					"answer"   => ""
 				)
 			)
